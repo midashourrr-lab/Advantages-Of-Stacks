@@ -1,0 +1,17 @@
+
+What is Stack?
+Stack is a data structure that follows LIFO (Last In First Out).
+
+## 5 Benefits of Stack
+1. Used in Undo/Redo operations.
+2. Used in expression evaluation.
+3. Used in backtracking algorithms.
+4. Used in function call management (Call Stack).
+5. Used in syntax parsing.
+
+## Stack Methods
+- push()
+- pop()
+- peek()
+- isEmpty()
+- search(
